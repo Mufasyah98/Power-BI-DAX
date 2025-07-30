@@ -35,3 +35,5 @@ Module	Topics Covered
 - 7	Performance Tuning & Optimization
 - 8	Assignments with Maven Roasters Data
 
+["https://mufasyah-my.sharepoint.com/:w:/g/personal/fakhrul_syahmi_mufasyah_onmicrosoft_com/EaXHoCah59BLlRzCTMUDGjABVYxNmJl6BavAxk823VMJ8A?e=90zEP1"]
+
